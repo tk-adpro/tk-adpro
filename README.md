@@ -10,3 +10,11 @@ https://www.canva.com/design/DAGF9EZm_2U/ekG2DfTbiNFU3PNT9SZdjQ/edit?utm_content
 
 # Deployment
 ![](image/deployment-base.png)
+
+# Component
+## Prod Management
+![](image/component-prodmanagement.png)
+
+# Code
+## Prod Management
+![](image/code-prodmanagement.png)
