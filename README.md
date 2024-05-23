@@ -6,7 +6,11 @@ https://www.canva.com/design/DAGF9EZm_2U/ekG2DfTbiNFU3PNT9SZdjQ/edit?utm_content
 ![](image/context-base.png)
 
 # Container
+BEFORE
 ![](image/container-base.png)
+AFTER
+![](image/container-afterrisk-base.png)
+
 
 # Deployment
 ![](image/deployment-base.png)
