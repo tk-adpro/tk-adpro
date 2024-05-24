@@ -3,9 +3,11 @@ C4 Models dapat diakses di sini
 https://www.canva.com/design/DAGF9EZm_2U/ekG2DfTbiNFU3PNT9SZdjQ/edit?utm_content=DAGF9EZm_2U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Context
+
 ![](image/context-base.png)
 
 # Container
+
 BEFORE
 ![](image/container-base.png)
 AFTER
@@ -13,9 +15,11 @@ AFTER
 
 
 # Deployment
+
 ![](image/deployment-base.png)
 
 # Component
+
 ## Prod Management
 ![](image/component-prodmanagement.png)
 ## Voucher Management
@@ -23,13 +27,26 @@ AFTER
 ## Request Management
 ![component-requestmanagement.jpg](image%2Fcomponent-requestmanagement.jpg)
 
+## Order Management
+![order component](image/order-component.png)
+
+## Payment Management
+![payment component](image/payment-component.png)
+
 # Code
+
 ## Prod Management
 ![](image/code-prodmanagement.png)
+
 ## Voucher Management
 ![](image/code-vouchermanagement.png)
+
 ## Request Management
 ![code-requestmanagement.jpg](image%2Fcode-requestmanagement.jpg)
+
+## Order and Payment Management
+![Order and Payment](image/order-payment.png)
+
 
 
 Risk storming is a collaborative technique where team members from various roles identify, assess, and prioritize project risks. This method encourages open communication and ensures a comprehensive understanding of potential risks, leading to proactive risk management and informed decision-making.
