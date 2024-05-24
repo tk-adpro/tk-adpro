@@ -26,6 +26,8 @@ AFTER
 ![](image/component-vouchermanagement.png)
 ## Request Management
 ![component-requestmanagement.jpg](image%2Fcomponent-requestmanagement.jpg)
+## Tracking Management
+![](image/component-tracking.png)
 
 ## Order Management
 ![order component](image/order-component.png)
@@ -43,6 +45,8 @@ AFTER
 
 ## Request Management
 ![code-requestmanagement.jpg](image%2Fcode-requestmanagement.jpg)
+## Tracking Management
+![](image/code-tracking.png)
 
 ## Order and Payment Management
 ![Order and Payment](image/order-payment.png)
