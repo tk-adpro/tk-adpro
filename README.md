@@ -22,6 +22,8 @@ AFTER
 ![](image/component-vouchermanagement.png)
 ## Request Management
 ![component-requestmanagement.jpg](image%2Fcomponent-requestmanagement.jpg)
+## Tracking Management
+![](image/component-tracking.png)
 
 # Code
 ## Prod Management
@@ -30,6 +32,8 @@ AFTER
 ![](image/code-vouchermanagement.png)
 ## Request Management
 ![code-requestmanagement.jpg](image%2Fcode-requestmanagement.jpg)
+## Tracking Management
+![](image/code-tracking.png)
 
 
 Risk storming is a collaborative technique where team members from various roles identify, assess, and prioritize project risks. This method encourages open communication and ensures a comprehensive understanding of potential risks, leading to proactive risk management and informed decision-making.
